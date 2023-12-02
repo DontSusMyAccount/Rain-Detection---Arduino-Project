@@ -1,5 +1,7 @@
 Rain Detection with Arduino ESP8266
+
 Overview
+
 This project utilizes Arduino and ESP8266 to create a Rain Detection system. The setup includes a Rain Drop sensor that detects rainfall, and when rain is detected, it triggers a notification via Line Notify. Additionally, the system incorporates a weather monitoring feature that provides updates on weather conditions every hour.
 
 Components
